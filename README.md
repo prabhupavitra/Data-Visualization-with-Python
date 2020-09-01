@@ -13,7 +13,7 @@ According to Tableau, "Data Visualization" is one of the most useful professiona
 ### What comes before Data Visualization?
 
 The first step of any data visualization process starts at discovering data. Data can be either imported as a flat file(csv/txt) or using data APIs. 
-Once the data is available in raw format, the next step generally includes data cleaning and transformation. The subsequent steps include preparing data for analysis and visualization followed by the visualization itself. 
+Once the data is available in raw format, the next step generally includes data cleaning and transformation. The subsequent steps include preparing data for analysis and visualization, followed by the visualization itself. 
 Preparing the data in turn includes several stages from identifying the data table, having appropriate headers, handling missing values, appropriate aggregation and summaries and adjusting the data layout for a optimal code for the design of the visualization in question.
 
 ## Key Terms to know
